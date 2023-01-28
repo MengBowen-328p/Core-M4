@@ -1,0 +1,4 @@
+
+# 项目排除路径
+/.pio/build/
+/cmake-build-black_f407zg/
